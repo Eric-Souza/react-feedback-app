@@ -13,7 +13,12 @@
     {
       "id": 3,
       "rating": 8,
-      "text": "THis is feedback item 3 coming from the server"
+      "text": "This is feedback item 3 coming from the server"
+    },
+    {
+      "text": "This is a test ",
+      "rating": 5,
+      "id": 4
     }
   ]
 }
